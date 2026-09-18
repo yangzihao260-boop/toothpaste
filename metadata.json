@@ -1,0 +1,6 @@
+{
+  "name": "Toothpaste Learning Game",
+  "description": "An interactive, colorful phonics and spelling game for children to learn the English word 'toothpaste' by squeezing fun toothpaste onto a toothbrush.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
